@@ -10,6 +10,7 @@ public class SpringProjectApplication {
 //		SpringApplication.run(SpringProjectApplication.class, args);
 		System.out.println("Hello Springboot");
 //		System.out.println("Second commit");
+		System.out.println("New");
 	}
 
 }
